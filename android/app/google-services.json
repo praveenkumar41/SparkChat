@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "156000600520",
+    "project_id": "spark-chat-24c0e",
+    "storage_bucket": "spark-chat-24c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156000600520:android:9d1f6cbfa6c153d727c0fd",
+        "android_client_info": {
+          "package_name": "com.example.sparkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156000600520-8aqrbj35dv1cr7eknf0mp02omf1ve4ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGvjL72X3bGi9LnbMS0OD9RHbF-JoEN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156000600520-8aqrbj35dv1cr7eknf0mp02omf1ve4ek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156000600520-a8k68k1f9iatgf724m3ogagq8dr28pqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sparkchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
