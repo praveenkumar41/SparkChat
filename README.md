@@ -15,6 +15,18 @@ It is Person to Person Chat System.
    <li><b>Search : </b>List all Users/Friends</li>
    <li><b>Emoji : </b>Custom Emoji Support in keyboard</li>
    </ul>
+
+## Upcoming
+
+   <ul>
+   <li>Group chat</li>
+   <li>Messages seen functionality</li>
+   <li>stories functionality</li>
+   <li>Camera implementation with filters</li>
+   <li>Blocking users</li>
+   </ul>
+
+
    
 ## Screenshots
 
